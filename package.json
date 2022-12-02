@@ -1,4 +1,5 @@
 {
+  "homepage" : "https://tomlau001.github.io/Tom-Lau-Portfolio-Website",
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -27,6 +28,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -50,6 +53,7 @@
     ]
   },
   "devDependencies": {
-    "@babel/plugin-proposal-class-properties": "^7.18.6"
+    "@babel/plugin-proposal-class-properties": "^7.18.6",
+    "gh-pages": "^4.0.0"
   }
 }
