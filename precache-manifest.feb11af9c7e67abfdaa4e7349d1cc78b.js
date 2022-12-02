@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c5254df356b3c0f9b1c9",
+    "revision": "232255c2a1d8876fb309",
     "url": "/Tom-Lau-Portfolio-Website/static/css/main.3d44d868.chunk.css"
   },
   {
-    "revision": "c5254df356b3c0f9b1c9",
-    "url": "/Tom-Lau-Portfolio-Website/static/js/main.c5254df3.chunk.js"
+    "revision": "232255c2a1d8876fb309",
+    "url": "/Tom-Lau-Portfolio-Website/static/js/main.232255c2.chunk.js"
   },
   {
     "revision": "73c4a386b51143b368b7",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/Tom-Lau-Portfolio-Website/static/media/skill_img.048a964b.jpg"
   },
   {
-    "revision": "12adb4dbce567fba1ddcebeb3c4a0f51",
+    "revision": "54382c62418e4d32a355c4e8281e8fa4",
     "url": "/Tom-Lau-Portfolio-Website/index.html"
   }
 ];
