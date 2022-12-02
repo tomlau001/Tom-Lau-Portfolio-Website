@@ -15,7 +15,7 @@ const Header = () => {
           Hello, I'm <span className="fw-bold">Tom Lau</span>
         </h1>
         <Typed
-          className="typed-text"
+          className="typed-text text-center"
           strings={["I'm a Self-Taught Developer"]}
           typeSpeed={150}
           backSpeed={50}

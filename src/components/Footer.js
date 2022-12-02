@@ -76,14 +76,14 @@ const Footer = () => {
         </section>
 
         <div className="text-center text-light p-6 pb-2 py-5">
-          @2022 Copyright:
+        © 2022 Copyright
           <a
             href="https://LHFPortfolioWebsite.com/"
             className="text-light copyright"
             target={"_blank"}
           >
             {" "}
-            TomLauPortfolioWebsite.com
+            Tom Lau. All rights reserved.
           </a>
         </div>
       </div>
