@@ -10,7 +10,7 @@ const Header = () => {
 
   return (
     <div className="header-wraper" id="Home">
-      <div className="main-info">
+      <div className="container main-info">
         <h1 data-aos="fade-down" data-aos-duration="2000">
           Hello, I'm <span className="fw-bold">Tom Lau</span>
         </h1>
@@ -21,7 +21,7 @@ const Header = () => {
           backSpeed={50}
           loop
         />
-        <a className="main-btn" data-aos="zoom-in" data-aos-duration="1000" href="#">
+        <a className="main-btn" data-aos="zoom-in" data-aos-duration="1000" href="https://drive.google.com/file/d/1chFtMT3GSu_NdcG_W4KbtFKSqEd35T7s/view?usp=share_link" target={"_blank"}>
           My Resume
         </a>
       </div>

@@ -25,9 +25,9 @@ const Aboutme = () => {
 
             <p className="py-5 aboutme-main" data-aos="fade-up" data-aos-duration="1500">
               Hello, my name is  <span className="fw-bold">Tom Lau</span> and I'm a self-taught 
-              person who are interested in programming. I'm now working at Tung Wah Coffin Home 
-              and Tin Hau Temple. Over the past year, I have learned how to creates websites and 
-              applications using web languages and tools such as HTML, CSS, JavaScript, Bootstrap 
+              person who are interested in programming. I learned programming mainly via YouTube tutorials 
+              and Coursera courses. Over the past year, I have learned how to creates websites 
+              and applications using web languages and tools such as HTML, CSS, JavaScript, Bootstrap 
               and ReactJs.
               <br />
               <br />
