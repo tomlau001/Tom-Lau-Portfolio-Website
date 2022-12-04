@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "232255c2a1d8876fb309",
-    "url": "/Tom-Lau-Portfolio-Website/static/css/main.3d44d868.chunk.css"
+    "revision": "c3999fe69821e7b3120d",
+    "url": "/Tom-Lau-Portfolio-Website/static/css/main.f6823529.chunk.css"
   },
   {
-    "revision": "232255c2a1d8876fb309",
-    "url": "/Tom-Lau-Portfolio-Website/static/js/main.232255c2.chunk.js"
+    "revision": "c3999fe69821e7b3120d",
+    "url": "/Tom-Lau-Portfolio-Website/static/js/main.c3999fe6.chunk.js"
   },
   {
     "revision": "73c4a386b51143b368b7",
@@ -28,15 +28,15 @@ self.__precacheManifest = [
     "url": "/Tom-Lau-Portfolio-Website/static/media/aboutme.51b894db.jpg"
   },
   {
-    "revision": "e2d3c3c5cc2ef0555d4fd0e3ef4d91a8",
-    "url": "/Tom-Lau-Portfolio-Website/static/media/mainImg.e2d3c3c5.jpg"
+    "revision": "e69e7e14d8ac485044b0c7de0d84303a",
+    "url": "/Tom-Lau-Portfolio-Website/static/media/mainInfoImg.e69e7e14.jpg"
   },
   {
     "revision": "048a964bdcf5f02a133aea07798aa9bc",
     "url": "/Tom-Lau-Portfolio-Website/static/media/skill_img.048a964b.jpg"
   },
   {
-    "revision": "54382c62418e4d32a355c4e8281e8fa4",
+    "revision": "7eaaf209997566fffc118f232e84f3f0",
     "url": "/Tom-Lau-Portfolio-Website/index.html"
   }
 ];

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Tom-Lau-Portfolio-Website/precache-manifest.feb11af9c7e67abfdaa4e7349d1cc78b.js"
+  "/Tom-Lau-Portfolio-Website/precache-manifest.2fb5a19a2cac6742ecabbfccb3d2bf09.js"
 );
 
 workbox.clientsClaim();
